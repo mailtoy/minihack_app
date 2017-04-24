@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+##Member
+* Kanchanok Kannee ( 5910545639 )
+* Supisara Chuthathumpitak ( 5910546457 )
+* Pimwalun Witchawanitchanun ( 5910546686 )
 
-Things you may want to cover:
+* Github repo : https://github.com/mailtoy/minihack_app
 
-* Ruby version
+* A link to Heroku public domain : https://nameless-everglades-46209.herokuapp.com/static_pages/home
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
